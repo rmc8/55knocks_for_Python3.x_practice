@@ -1,3 +1,3 @@
-s1 = "py"
-s2 = "thon"
+s1: str = "py"
+s2: str = "thon"
 print(s1 + s2)
